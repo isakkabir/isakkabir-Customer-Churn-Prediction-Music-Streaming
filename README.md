@@ -1,10 +1,10 @@
 # isakkabir-Customer-Churn-Prediction-Music-Streaming 
 
-Model Development Approach
+### 2. Model Development Approach
 
 The model development process consists of three main steps that can be summarised as follows.
 
-Data Understanding
+#### Data Understanding
 
 * Generate population statistics and understand different variables, their type, range/categories, distribution, etc. Understanding the relationships between different columns.
 * Identifying missing values and potential duplicates
